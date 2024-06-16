@@ -8,3 +8,5 @@ It collected all the finnish songs I love and I made englsh and chinese subtitle
 * Kuusamo - Danny
 * Kylliki - Leevi and the Leavings
 * Ikkunaprinsessa - Rauli Badding Somerjoki
+* Viiminen Laulu - Aaro630
+* Loistava - Elias Gould
